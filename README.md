@@ -1,26 +1,28 @@
-# 🚀 Automações n8n
+<div align="center">
+<img src="assets/n8n_pink+black_logo.png" width="40%" alt="Logo do n8n">
+</div>
 
-Este repositório reúne fluxos reais criadas no **n8n** utilizados no meu dia a dia, com o objetivo de documentar e evoluir nas automações de forma organizada.
+## 🚀 Automação com n8n
 
----
+Este portifólio reúne workflows reais criadas no **n8n** para otimizar processos, integrar sistemas e aumentar produtividade.
 
-## 🔧 Sobre o Projeto
+## 🔧 Visão geral
 
 Este repositório contém:
 
-- Workflows do **n8n** totalmente funcionais  
-- Automatizações que resolvem tarefas reais  
-- Processos reutilizáveis e padronizados  
+- Workflows do **n8n** totalmente funcionais
+- Automação de rotinas repetitivas
+- Processos reutilizáveis e padronizados
 - Boas práticas na construção de fluxos e integrações
-
----
+- Integrações entre **APIs** e serviços externos
+- Tratamento de dados
 
 ## 🧠 Objetivos do Projeto
 
 - Servir como portfólio técnico
-- Manter um hub claro e bem documentado de tudo que foi construído no n8n.
-- Mostrar o nível técnico alcançado 
+- Manter um hub claro e bem documentado de tudo que foi construído no **n8n**.
+- Mostrar o nível técnico alcançado
 
----
 ## 📂 Estrutura do Repositório
----
+
+Cada subdiretório contém um workflow específico, acompanhado de seu próprio arquivo **`README.md`** detalhando o objetivo, os nós(Nodes) utilizados e como ele funciona.
