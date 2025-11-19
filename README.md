@@ -26,3 +26,8 @@ Este repositório contém:
 ## 📂 Estrutura do Repositório
 
 Cada subdiretório contém um workflow específico, acompanhado de seu próprio arquivo **`README.md`** detalhando o objetivo, os nós(Nodes) utilizados e como ele funciona.
+
+## 📞 Contato
+
+- **LinkedIn:** https://www.linkedin.com/in/rodrigubezerra/
+- **Email:** rodrigo.five@gmail.com
